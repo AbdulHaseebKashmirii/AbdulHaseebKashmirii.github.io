@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-## I'm Abdul Haseeb, a data scientist based in Pakistan.
+## I'm Abdul Haseeb, a data analyst based in Pakistan.
 
 I initially started as an engineering student, but my interest in technology led me to pursue a BSc in Computer Science at FAST NUCES. This marked a significant shift in my career path and was a deliberate choice to follow my passion. During my time at university, I focused extensively on mastering the fundamentals of programming languages such as C, C++, and Assembly Language. These languages helped me build a strong foundation in computer science, especially in areas like Data Structures, which are essential for problem-solving and algorithmic thinking
 
