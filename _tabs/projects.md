@@ -3,7 +3,7 @@ icon: fas fa-list
 order: 4
 ---
 
-## List of Projects I am Working On:
+<h1>List of Projects I am Working On:</h1>
 
-- **HR Data**  
-- **Password Strength Meter** 
+- HR Data  
+- Password Strength Meter 
