@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## I’m Abdul Haseeb.I lives in Pakistan, where I do data scientist. 
+## I’m Abdul Haseeb, and I live in Pakistan, where I work as a data scientist.
 
 I initially started as an engineering student, but my interest in technology led me to pursue a BSc in Computer Science at FAST NUCES. This marked a significant shift in my career path and was a deliberate choice to follow my passion. During my time at university, I focused extensively on mastering the fundamentals of programming languages such as C, C++, and Assembly Language. These languages helped me build a strong foundation in computer science, especially in areas like Data Structures, which are essential for problem-solving and algorithmic thinking
 
