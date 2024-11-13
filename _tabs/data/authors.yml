@@ -1,11 +1,9 @@
 <author_id>:
   name: <Abdul Haseeb>
   twitter: <twitter_of_author>
-  url: <homepage_of_author>
+  url: https://ahaseeb.com/about/
 ---
-author: <author_id> # for single entry
-# or
-#authors: [<author1_id>, <author2_id>]   # for multiple entries
+author: <author_id>
 ---
 
 ---
