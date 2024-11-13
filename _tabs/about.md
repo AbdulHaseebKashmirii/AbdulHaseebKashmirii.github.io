@@ -6,7 +6,7 @@ order: 1
 
 ## I'm Abdul Haseeb, a data analyst based in Pakistan.
 
-> I am actively seeking opportunities as a BDA (L1) & Data Analyst. If you’re an HR professional or have an open position in your company, I’d love to connect and discuss how I can contribute. Feel free to reach out at hi[at]abdulhaseeb5654[.]com or <a href="https://www.linkedin.com/in/abdulhaseebkashmiri/" target="_blank">Connect with me on LinkedIn</a>
+> I am actively seeking opportunities as a BDA (L1) & Data Analyst. If you’re an HR professional or have an open position in your company, I’d love to connect and discuss how I can contribute. Feel free to reach out at hi[at]abdulhaseeb5654[.]com or Connect with me on <a href="https://www.linkedin.com/in/abdulhaseebkashmiri/" target="_blank">LinkedIn</a>
 {: .prompt-info }
 
 I initially started as an engineering student, but my interest in technology led me to pursue a BSc in Computer Science at FAST NUCES. This marked a significant shift in my career path and was a deliberate choice to follow my passion. During my time at university, I focused extensively on mastering the fundamentals of programming languages such as C, C++, and Assembly Language. These languages helped me build a strong foundation in computer science, especially in areas like Data Structures, which are essential for problem-solving and algorithmic thinking.
