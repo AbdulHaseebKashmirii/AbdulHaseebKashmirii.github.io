@@ -8,7 +8,7 @@ platforms:
 
   - type: linkedin
     icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/abdulhaseebkashmiri/"
+    link: "https://www.linkedin.com/in/abdulhaseebkashmiri/"
 
   #- type: Facebook
   #  icon: "fab fa-facebook-square"
